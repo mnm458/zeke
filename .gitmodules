@@ -1,0 +1,9 @@
+[submodule "zeke-contracts"]
+	path = zeke-contracts
+	url = https://github.com/mnm458/zeke-contracts
+[submodule "zeke-tg"]
+	path = zeke-tg
+	url = https://github.com/mnm458/zeke-tg
+[submodule "zeke-relayer"]
+	path = zeke-relayer
+	url = https://github.com/mnm458/zeke-relayer
