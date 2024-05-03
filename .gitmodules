@@ -7,3 +7,6 @@
 [submodule "zeke-relayer"]
 	path = zeke-relayer
 	url = https://github.com/mnm458/zeke-relayer
+[submodule "zeke-kafka-consumer"]
+	path = zeke-kafka-consumer
+	url = https://github.com/mnm458/zeke-kafka-consumer
