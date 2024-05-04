@@ -10,3 +10,6 @@
 [submodule "zeke-kafka-consumer"]
 	path = zeke-kafka-consumer
 	url = https://github.com/mnm458/zeke-kafka-consumer
+[submodule "zeke-zk-backend"]
+	path = zeke-zk-backend
+	url = https://github.com/mnm458/zeke-zk-backend
